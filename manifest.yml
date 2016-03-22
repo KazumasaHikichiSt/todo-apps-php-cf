@@ -3,4 +3,4 @@ applications:
 - name: todo-apps-kh
   memory: 256M
   instances: 1
-  host: todo-apps
+  host: todo-apps-kh
